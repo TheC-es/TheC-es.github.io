@@ -16,7 +16,9 @@ Our web app would contain the following pages:
 
 - login and sign up page
 
-(insert screenshot)
+# <img width="500px"  src="/img/Login.png" >
+# <img width="500px"  src="/img/Register.png" >
+
 - schedule page showing times already reserved
 
 (insert screenshot)
