@@ -7,4 +7,14 @@ This gets especially bad after 5 pm, when it can be hard to get a spot on the co
 
 Our final project is a web app that seeks to solve this problem by allowing students to reserve time on the courts for their groups, and to look for groups to join.
 
-## Mockup
+## Mockup Page
+Our web app would contain the following pages:
+
+- login and sign up page
+(insert screenshot)
+- schedule page showing times already reserved
+(insert screenshot)
+- page to reserve times for a group
+(insert screenshot)
+- looking for team page, where players without a group can find one
+(insert screenshot)
