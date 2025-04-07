@@ -10,6 +10,10 @@ Our final project is a web app that seeks to solve this problem by allowing stud
 ## Mockup Page
 Our web app would contain the following pages:
 
+- landing page
+
+# <img width="250px"  src="/img/landingpage.png" >
+
 - login and sign up page
 
 (insert screenshot)
