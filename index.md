@@ -35,3 +35,6 @@ Our web app would contain the following pages:
 - looking for team page, where players without a group can find one
 
 (insert screenshot)
+
+## Team Contract
+[Team Contract] (https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri)
