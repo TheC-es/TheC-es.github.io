@@ -39,9 +39,9 @@ Our web app would contain the following pages:
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
 
-<a href="https://github.com/orgs/TheC-es/repositories" target=_"blank">[GitHub organization]</a>
+<a href="https://github.com/orgs/TheC-es/repositories" target="_blank">[GitHub organization]</a>
 
-<a href="https://github.com/orgs/TheC-es/projects/1" target=_"blank">[M1]</a>
+<a href="https://github.com/orgs/TheC-es/projects/1)" target="_blank">[M1]</a>
 
 [Deployment]
 [M2]
