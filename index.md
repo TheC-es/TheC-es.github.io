@@ -36,5 +36,10 @@ Our web app would contain the following pages:
 
 (insert screenshot)
 
-## Team Contract
-[Team Contract] (https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri)
+## Links
+[Team Contract] <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">Team Contract</a>
+[GitHub organization]
+[M1]
+[Deployment]
+[M2]
+
