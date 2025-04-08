@@ -7,6 +7,13 @@ This gets especially bad after 5 pm, when it can be hard to get a spot on the co
 
 Our final project is a web app that seeks to solve this problem by allowing students to reserve time on the courts for their groups, and to look for groups to join.
 
+## Team Members
+- Alan Reeves
+- Anthony Nguyen
+- Simon Lin
+- Angelo Rosal
+- Maya Buchanan
+
 ## Mockup Page
 Our web app would contain the following pages:
 
