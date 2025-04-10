@@ -33,7 +33,7 @@ Our web app would contain the following pages:
 
 ## Up-to-date screen shots 
 - landing page
-- 
+
 # <img width="500px"  src="/img/GamePlanLandingPage.png" >
 
 ## Links
