@@ -31,7 +31,7 @@ Our web app would contain the following pages:
 (insert screenshot)
 - page to reserve times for a group
 
-(insert screenshot)
+# <img width="500px"  src="/img/reserve.png" >
 - looking for team page, where players without a group can find one
 
 (insert screenshot)
