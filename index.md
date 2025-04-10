@@ -32,7 +32,9 @@ Our web app would contain the following pages:
 # <img width="500px"  src="/img/reserve.png" >
 
 ## Up-to-date screen shots 
-# <img width="500px"  src="/img/" >
+- landing page
+- 
+# <img width="500px"  src="/img/GamePlanLandingPage.png" >
 
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
