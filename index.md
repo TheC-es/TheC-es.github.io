@@ -45,5 +45,5 @@ Our web app would contain the following pages:
 
 [Deployment]
 
-[M2]
+<a href="https://github.com/orgs/TheC-es/projects/2" target="_blank">[M2]</a>
 
