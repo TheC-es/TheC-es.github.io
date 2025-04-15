@@ -38,11 +38,11 @@ Our web app would contain the following pages:
 
 - Login Page
 
-# <img width="500px"  src="/img/GamePlanLandingLogin.png" >
+# <img width="500px"  src="/img/GamePlanLogin.png" >
 
 - Sign In Page
 
-# <img width="500px"  src="/img/GamePlanLandingSignIn.png" >
+# <img width="500px"  src="/img/GamePlanSignIn.png" >
 
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
