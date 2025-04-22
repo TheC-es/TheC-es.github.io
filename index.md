@@ -44,13 +44,17 @@ Our web app would contain the following pages:
 
 # <img width="500px"  src="/img/GamePlanSignIn.png" >
 
-- Basketball Schedule
+- Basketball Schedule Page
 
 # <img width="500px"  src="/img/BasketBall.png" >
 
-- Volleyball Schedule
+- Volleyball Schedule Page
 
 # <img width="500px"  src="/img/VolleyBall.png" >
+
+- About Us Page
+
+# <img width="500px"  src="/img/.png" >
 
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
