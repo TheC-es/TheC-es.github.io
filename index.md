@@ -30,12 +30,12 @@ Our web app would contain the following pages:
 # <img width="500px"  src="/img/reserve.png" >
 
 ## User-Guide
-- Welcome to GamePlan, the web app that helps you reserve basketball and volleyball courts at the Warrior Rec Center with ease. Below is a quick guide to navigating the website.
+Welcome to GamePlan, the web app that helps you reserve basketball and volleyball courts at the Warrior Rec Center with ease. Below is a quick guide to navigating the website.
 
 - Landing Page
 - Explore the app’s features and get started
 
-# <img width="500px"  src="/img/updatedlandingpage.png" >
+# <img width="500px"  src="/img/updatedlanding.png" >
 
 - Sign In Page
 - Returning users can log in to access reservations and groups
