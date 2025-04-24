@@ -92,3 +92,25 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 
 <a href="https://github.com/orgs/TheC-es/projects/3" target="_blank">[M3]</a>
 
+## Development History
+<h4>Milestone 1</h4>
+<ul>
+    <li>Deployed basic version to Vercel</li>
+    <li>Created landing page</li>
+    <li>Created mockups of other pages</li>
+    <li>Created Github organization and project M1</li>
+    <li>Created this organization homepage</li>
+</ul>
+<h4>Milestone 2 (Current)</h4>
+<ul>
+    <li>Implemented Basketball page</li>
+    <li>Implemented Volleyball page</li>
+    <li>Implemented Schedule Game page</li>
+    <li>Implemented Basketball Schedule page</li>
+    <li>Implemented Volleyball Schedule page</li>
+    <li>Implemented About Us page</li>
+    <li>Implemented sign in/out/up forms</li>
+    <li>Implemented playwright tests for all pages</li>
+    <li>Placed system under continuous integration</li>
+    <li>Added continuous integration badge to project homepage</li>
+</ul>
