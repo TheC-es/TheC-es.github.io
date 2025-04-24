@@ -79,6 +79,25 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 
 # <img width="500px"  src="/img/aboutus.png" >
 
+## Developer Guide
+<h4>Download</h4>
+From the github repo page, either fork the repo or download a zip file
+<h4>Install</h4>
+Inside your local directory for the source code, use npm install to install dependencies
+<h4>Run</h4>
+To run the webapp locally, use npm run dev. This will compile and run the code. The default address will be "http://localhost:3000".
+Enter this address into a web browser to view the app. 
+In order to access database functions, first create a database with your software of choice.
+With postgreSQl, you would use "createdb youDatabaseNameHere"
+Migrate the database by running "npx prisma migrate dev"
+To associate the database to the app, copy the contents of sample.env to a file called just ".env".
+Then assign the DATABASE_URL variable to the address of the database you created.
+Seed your database with the seed.ts script in the prisma directory.
+i.e. "npx prisma db seed"
+The app should now run as intended.
+<h4>Modifying</h4>
+Modifying the source code can be achieved with any editor.
+
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
 
