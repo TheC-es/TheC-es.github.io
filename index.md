@@ -67,9 +67,9 @@ Our web app would contain the following pages:
 
 <a href="https://github.com/orgs/TheC-es/repositories" target="_blank">[GitHub organization]</a>
 
-<a href="https://github.com/orgs/TheC-es/projects/1)" target="_blank">[M1]</a>
-
 <a href="https://gameplanz.vercel.app" target="_blank">[Deployment]</a>
+
+<a href="https://github.com/orgs/TheC-es/projects/1)" target="_blank">[M1]</a>
 
 <a href="https://github.com/orgs/TheC-es/projects/2" target="_blank">[M2]</a>
 
