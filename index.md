@@ -66,11 +66,13 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 - View upcoming basketball games
 
 # <img width="500px"  src="/img/basketballschedule.png" >
+# <img width="500px"  src="/img/court2.png" >
 
 - Volleyball Schedule Page
 - Check times for available volleyball courts
 
 # <img width="500px"  src="/img/volleycourt.png" >
+# <img width="500px"  src="/img/court2.png" >
 
 - About Us Page
 - Learn more about the team behind GamePlan
