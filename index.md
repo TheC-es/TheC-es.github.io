@@ -30,37 +30,52 @@ Our web app would contain the following pages:
 # <img width="500px"  src="/img/reserve.png" >
 
 ## User-Guide
-- Welcome to GamePlan, the web app that helps you reserve basketball and volleyball courts at the Warrior Rec Center with ease. Below is a quick guide to navigating the app.
+- Welcome to GamePlan, the web app that helps you reserve basketball and volleyball courts at the Warrior Rec Center with ease. Below is a quick guide to navigating the website.
 
 - Landing Page
 - Explore the app’s features and get started
 
-# <img width="500px"  src="/img/GamePlanLandingPage.png" >
-
-- Login Page
-- Returning users can log in to access reservations and groups
-
-# <img width="500px"  src="/img/GamePlanLogin.png" >
+# <img width="500px"  src="/img/updatedlandingpage.png" >
 
 - Sign In Page
+- Returning users can log in to access reservations and groups
+
+# <img width="500px"  src="/img/signin.png" >
+
+- Sign Up Page
 - New users can create an account to start booking courts
 
-# <img width="500px"  src="/img/GamePlanSignIn.png" >
+# <img width="500px"  src="/img/signup.png" >
+
+- Sign Out Page
+- Signed-in users can sign out
+
+# <img width="500px"  src="/img/signout.png" >
+
+- Basketball Game Page
+- Schedule or join basketball games of the day
+
+# <img width="500px"  src="/img/basketgame.png" >
+
+- Volleyball Game Page
+- Schedule or jointhe  volleyball game of the day
+
+# <img width="500px"  src="/img/volleygame.png" >
 
 - Basketball Schedule Page
-- View and join upcoming basketball games
+- View upcoming basketball games
 
-# <img width="500px"  src="/img/BasketBall.png" >
+# <img width="500px"  src="/img/basketballschedule.png" >
 
 - Volleyball Schedule Page
-- Check available volleyball games and reserve your spot
+- Check times for available volleyball courts
 
-# <img width="500px"  src="/img/VolleyBall.png" >
+# <img width="500px"  src="/img/volleycourt.png" >
 
 - About Us Page
 - Learn more about the team behind GamePlan
 
-# <img width="500px"  src="/img/.png" >
+# <img width="500px"  src="/img/aboutus.png" >
 
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
