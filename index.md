@@ -31,24 +31,24 @@ Our web app would contain the following pages:
 - looking for team page, where players without a group can find one
 # <img width="500px"  src="/img/reserve.png" >
 
-## Up-to-date screen shots 
-- landing page
+## User-Guide
+- Here is our landing page, where you can explore 
 
 # <img width="500px"  src="/img/GamePlanLandingPage.png" >
 
-- Login Page
+- Login Page so that you can log in
 
 # <img width="500px"  src="/img/GamePlanLogin.png" >
 
-- Sign In Page
+- Sign In Page so that you can sign in
 
 # <img width="500px"  src="/img/GamePlanSignIn.png" >
 
-- Basketball Schedule Page
+- Basketball Schedule Page, to view all the basketball games going on
 
 # <img width="500px"  src="/img/BasketBall.png" >
 
-- Volleyball Schedule Page
+- Volleyball Schedule Page, to view all the volleyball games going on
 
 # <img width="500px"  src="/img/VolleyBall.png" >
 
@@ -66,4 +66,6 @@ Our web app would contain the following pages:
 <a href="https://gameplanz.vercel.app" target="_blank">[Deployment]</a>
 
 <a href="https://github.com/orgs/TheC-es/projects/2" target="_blank">[M2]</a>
+
+<a href="https://github.com/orgs/TheC-es/projects/3" target="_blank">[M3]</a>
 
