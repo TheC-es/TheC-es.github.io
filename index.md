@@ -1,11 +1,9 @@
 ## TheC-es
 
 ## Overview
-At the Warrior Rec Center, there is limited space and many people who want to use the courts to play basketball or volleyball.
-
-This gets especially bad after 5 pm, when it can be hard to get a spot on the court with so many people competing.
-
-Our final project is a web app that seeks to solve this problem by allowing students to reserve time on the courts for their groups, and to look for groups to join.
+At the Warrior Rec Center, high demand for basketball and volleyball courts, especially after 5 PM, makes it difficult for students to secure playing time. Our web app solves this problem by allowing students to:
+- Reserve court time for their groups.
+- Find and join existing groups to secure a spot.
 
 ## Team Members
 - Alan Reeves
@@ -32,27 +30,35 @@ Our web app would contain the following pages:
 # <img width="500px"  src="/img/reserve.png" >
 
 ## User-Guide
-- Here is our landing page, where you can explore 
+- Welcome to GamePlan, the web app that helps you reserve basketball and volleyball courts at the Warrior Rec Center with ease. Below is a quick guide to navigating the app.
+
+- Landing Page
+- Explore the app’s features and get started
 
 # <img width="500px"  src="/img/GamePlanLandingPage.png" >
 
-- Login Page so that you can log in
+- Login Page
+- Returning users can log in to access reservations and groups
 
 # <img width="500px"  src="/img/GamePlanLogin.png" >
 
-- Sign In Page so that you can sign in
+- Sign In Page
+- New users can create an account to start booking courts
 
 # <img width="500px"  src="/img/GamePlanSignIn.png" >
 
-- Basketball Schedule Page, to view all the basketball games going on
+- Basketball Schedule Page
+- View and join upcoming basketball games
 
 # <img width="500px"  src="/img/BasketBall.png" >
 
-- Volleyball Schedule Page, to view all the volleyball games going on
+- Volleyball Schedule Page
+- Check available volleyball games and reserve your spot
 
 # <img width="500px"  src="/img/VolleyBall.png" >
 
 - About Us Page
+- Learn more about the team behind GamePlan
 
 # <img width="500px"  src="/img/.png" >
 
