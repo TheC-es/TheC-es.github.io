@@ -1,5 +1,7 @@
 ## TheC-es
 
+[![ci-nextjs-application-template](https://github.com/TheC-es/GamePlan/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/TheC-es/GamePlan/actions/workflows/node.js.yml)
+
 ## Overview
 At the Warrior Rec Center, high demand for basketball and volleyball courts, especially after 5 PM, makes it difficult for students to secure playing time. Our web app solves this problem by allowing students to:
 - Reserve court time for their groups.
