@@ -137,8 +137,8 @@ Modifying the source code can be achieved with any editor.
 </ul>
 <h4>Milestone 3 (Current)</h4>
 <ul>
-    <li>Create 50 Reservations </li>
-    <li>Implement Reservation testing on new pages</li>
+    <li>Create 50 reservations </li>
+    <li>Implement reservation testing on new pages</li>
     <li>Update seed file</li>
     <li>Clean up sign in/up/out button</li>
     <li>Create Community Feedback Section</li>
@@ -146,5 +146,5 @@ Modifying the source code can be achieved with any editor.
     <li>Show reservations for Basketball Schedule</li>
     <li>Remove Unused pages</li>
     <li>Get real sign ups</li>
-    <li>Establish Schema for reservation</li>
+    <li>Establish schema for reservation</li>
 </ul>
