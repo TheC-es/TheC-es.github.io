@@ -122,7 +122,7 @@ Modifying the source code can be achieved with any editor.
     <li>Created Github organization and project M1</li>
     <li>Created this organization homepage</li>
 </ul>
-<h4>Milestone 2 (Current)</h4>
+<h4>Milestone 2</h4>
 <ul>
     <li>Implemented Basketball page</li>
     <li>Implemented Volleyball page</li>
@@ -134,4 +134,17 @@ Modifying the source code can be achieved with any editor.
     <li>Implemented playwright tests for all pages</li>
     <li>Placed system under continuous integration</li>
     <li>Added continuous integration badge to project homepage</li>
+</ul>
+<h4>Milestone 3 (Current)</h4>
+<ul>
+    <li>Create 50 Reservations </li>
+    <li>Implement Reservation testing on new pages</li>
+    <li>Update seed file</li>
+    <li>Clean up sign in/up/out button</li>
+    <li>Create Community Feedback Section</li>
+    <li>Show reservations for Volleyball Schedule</li>
+    <li>Show reservations for Basketball Schedule</li>
+    <li>Remove Unused pages</li>
+    <li>Get real sign ups</li>
+    <li>Establish Schema for reservation</li>
 </ul>
