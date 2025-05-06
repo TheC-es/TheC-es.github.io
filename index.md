@@ -100,6 +100,38 @@ The app should now run as intended.
 <h4>Modifying</h4>
 Modifying the source code can be achieved with any editor.
 
+## Community Feedback
+User 1: 
+Sign-up crashes when I attempt to either make an account or try to log into the account. The sign-up appears to work, but I’m not sure if it updates on the website in real time. It could be because I can’t sign up, but the user interface at the top is easy to navigate
+
+User 2:  
+- “Meet the Memebers” is Members misspelled on purpose?
+- Should hide the “sign out” option if users aren't signed in
+- Should hide the “sign in” and “sign up” options if users are already signed in
+- Add some indication for being signed in, like an icon
+- “Forgot Password” page doesn't exist (probably don't need one for the grade tbh)
+- Give an error message when signing up withan  email that also has an account
+- Give an error message when signing in with the wrong password
+- “Games” tab does not go anywhere
+- The schedules let me type in the “Free” boxes, same with the games and scores
+- I would make the text in each tab on the navbar justify center 
+- I would add more color and more interesting fonts
+- Also, I can't sign in anymore, it just gives me an error
+
+User 3:
+- Easy to navigate
+- Improve the aesthetics of the site
+
+User 4:
+- Great for first timers
+- Looks like a UH site
+- Easy to use
+
+User 5:
+- I LOVE THE LOGO
+- Easy to use
+- Add more color, it looks boring
+
 ## Links
 <a href="https://docs.google.com/document/d/1KdcFXI9BLMf4gpyHK3QJkyHCRpiOTgpeOwQljG6ItBs/edit?tab=t.wm0ujzkwwri" target="_blank">[Team Contract]</a>
 
