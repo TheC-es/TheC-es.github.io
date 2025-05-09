@@ -37,17 +37,17 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 - Landing Page
 - Explore the app’s features and get started
 
-# <img width="500px"  src="/img/updatedlanding.png" >
+# <img width="500px"  src="/img/landingpage.JPG" >
 
 - Sign In Page
 - Returning users can log in to access reservations and groups
 
-# <img width="500px"  src="/img/signin.png" >
+# <img width="500px"  src="/img/signin.JPG" >
 
 - Sign Up Page
 - New users can create an account to start booking courts
 
-# <img width="500px"  src="/img/signup.png" >
+# <img width="500px"  src="/img/signup.JPG" >
 
 - Sign Out Page
 - Signed-in users can sign out
@@ -57,29 +57,29 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 - Basketball Game Page
 - Schedule or join basketball games of the day
 
-# <img width="500px"  src="/img/basketgame.png" >
+# <img width="500px"  src="/img/basketgame.JPG" >
 
 - Volleyball Game Page
-- Schedule or jointhe  volleyball game of the day
+- Schedule or join the volleyball game of the day
 
-# <img width="500px"  src="/img/volleygame.png" >
+# <img width="500px"  src="/img/volleygame.JPG" >
 
 - Basketball Schedule Page
 - View upcoming basketball games
 
-# <img width="500px"  src="/img/basketgame.png" >
-# <img width="500px"  src="/img/court2.png" >
+# <img width="500px"  src="/img/basketschedule.JPG" >
+# <img width="500px"  src="/img/schedule2.JPG" >
 
 - Volleyball Schedule Page
 - Check times for available volleyball courts
 
-# <img width="500px"  src="/img/volleycourt.png" >
-# <img width="500px"  src="/img/court2.png" >
+# <img width="500px"  src="/img/volleyschedule.JPG" >
+# <img width="500px"  src="/img/schedule2.JPG" >
 
 - About Us Page
 - Learn more about the team behind GamePlan
 
-# <img width="500px"  src="/img/aboutus.png" >
+# <img width="500px"  src="/img/aboutus.JPG" >
 
 ## Developer Guide
 <h4>Download</h4>
