@@ -49,11 +49,6 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 
 # <img width="500px"  src="/img/signup.JPG" >
 
-- Sign Out Page
-- Signed-in users can sign out
-
-# <img width="500px"  src="/img/signout.png" >
-
 - Basketball Game Page
 - See the score or if there are any available slots of the day
 
