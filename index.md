@@ -55,14 +55,19 @@ Welcome to GamePlan, the web app that helps you reserve basketball and volleybal
 # <img width="500px"  src="/img/signout.png" >
 
 - Basketball Game Page
-- Schedule or join basketball games of the day
+- See the score or if there are any available slots of the day
 
 # <img width="500px"  src="/img/basketgame.JPG" >
 
 - Volleyball Game Page
-- Schedule or join the volleyball game of the day
+- See the score or if there are any available slots of the day
 
 # <img width="500px"  src="/img/volleygame.JPG" >
+
+- Reservation Page
+- This page will allow users to pick which sport, court, day, and time they want to reserve.
+
+# <img width="500px"  src="/img/reservation" >
 
 - Basketball Schedule Page
 - View upcoming basketball games
