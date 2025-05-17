@@ -19,7 +19,7 @@ Our web app would contain the following pages:
 
 - landing page
 
-# <img width="500px"  src="/img/landingpage.JPG" >
+# <img width="500px"  src="/img/landing.PNG" >
 
 - login and sign up page
 
